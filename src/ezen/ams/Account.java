@@ -144,6 +144,6 @@ public class Account {
 		this.password = password;
 		this.restMoney = restMoney;
 	}
-	
+	//git 연습코드 추가 입니다
 	
 }
